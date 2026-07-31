@@ -24,5 +24,12 @@ AI Virtual Mouse is a Python-based computer vision project that allows users to 
 ## Installion
 1. Clone the repsitory
    git clone<br>
-   https://github.com/your<br>
+   https://github.com/Neha05-it<br>
+   /AI-Virtual-Mouse.git <br>
+2. Move into the project directory <br>
+   cd AI-Virtual-Mouse
+3. Install the required libraries <br>
+   pip install -r requirements.txt
+4. Run the project
+   python main.py
    
