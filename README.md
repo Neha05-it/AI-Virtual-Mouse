@@ -30,6 +30,21 @@ AI Virtual Mouse is a Python-based computer vision project that allows users to 
    cd AI-Virtual-Mouse
 3. Install the required libraries <br>
    pip install -r requirements.txt
-4. Run the project
+4. Run the project <br>
    python main.py
+## How It Works
+1. Open the application.
+2. Allow webcam access.
+3. Show your hand in front of the camera
+4. Move your index finger to control the cursor.
+5. Perform the required finger gesture to click or perform other action
+## Future Improvements
+- Double-click gesture
+- Scroll using hand gestures
+- Volume and brightness control
+- Multi-hand support
+- Custom gesture recognition
+## Author 
+Neha Kumari<br>
+If you like this project, don't forget to star the repository
    
