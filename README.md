@@ -16,10 +16,10 @@ AI Virtual Mouse is a Python-based computer vision project that allows users to 
 - NumPy
 ## Project Structure
 ### AI-Virtual-Mouse/
-|- main.py
-|- HandTrackingModule.py
-|-requirements.txt
-|-README.md
+|- main.py<br>
+|- HandTrackingModule.py<br>
+|-requirements.txt<br>
+|-README.md<br>
 |-screenshots/
 ## Installion
 1. Clone the repsitory
